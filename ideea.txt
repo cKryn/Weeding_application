@@ -1,0 +1,6 @@
+Realizeaza o aplicatie web care sa fie o invitatie la nuna.
+Pe pagina web vor aparea:
+    -poze cu mirii;
+    -detalii despre locatie;
+    -un formular care trebuie completat de invitati pentru a confirma participarea la eveniment.
+
